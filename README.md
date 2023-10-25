@@ -1,4 +1,4 @@
-![alt text](./screen-shot.jpg)
+
 
 ## Türkçe Sözlük
 
